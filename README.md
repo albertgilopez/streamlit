@@ -55,4 +55,4 @@ Este proyecto está bajo la Licencia MIT.
 
 ---
 
-Lee esta guía detallada, paso a paso, de explicación del proyecto y el código: [https://medium.com/@jddam/pregunta-a-tu-pdf-un-asistente-de-ia-que-responde-tus-consultas-directamente-desde-documentos-6c5bee3324de](https://medium.com/@jddam/pregunta-a-tu-pdf-un-asistente-de-ia-que-responde-tus-consultas-directamente-desde-documentos-6c5bee3324de)https://medium.com/@jddam/pregunta-a-tu-pdf-un-asistente-de-ia-que-responde-tus-consultas-directamente-desde-documentos-6c5bee3324de
+Lee esta guía detallada, paso a paso, de explicación del proyecto y el código: [https://medium.com/@jddam/pregunta-a-tu-pdf-un-asistente-de-ia-que-responde-tus-consultas-directamente-desde-documentos-6c5bee3324de](https://medium.com/@jddam/pregunta-a-tu-pdf-un-asistente-de-ia-que-responde-tus-consultas-directamente-desde-documentos-6c5bee3324de)
