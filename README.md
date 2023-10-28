@@ -17,6 +17,8 @@
 - **HuggingFace**: Para la generación de embeddings.
 - **Chroma DB**: Para almacenar embeddings y facilitar búsquedas.
 
+![Esquema "Pregunta a tu PDF" - Albert Gil López]([Esquema%20%22Pregunta%20a%20tu%20PDF%22%20-%20Albert%20Gil%20L%C3%B3pez.png)
+
 ## 🚀 Cómo Ejecutar el Proyecto
 
 1. **Clonar el Repositorio**:
@@ -56,3 +58,5 @@ Este proyecto está bajo la Licencia MIT.
 ---
 
 Lee esta guía detallada, paso a paso, de explicación del proyecto y el código: [https://medium.com/@jddam/pregunta-a-tu-pdf-un-asistente-de-ia-que-responde-tus-consultas-directamente-desde-documentos-6c5bee3324de](https://medium.com/@jddam/pregunta-a-tu-pdf-un-asistente-de-ia-que-responde-tus-consultas-directamente-desde-documentos-6c5bee3324de)
+
+![Pregunta a tu PDF - Albert Gil López](Pregunta%20a%20tu%20PDF%20-%20Albert%20Gil%20L%C3%B3pez.png)
