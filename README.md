@@ -17,7 +17,7 @@
 - **HuggingFace**: Para la generación de embeddings.
 - **Chroma DB**: Para almacenar embeddings y facilitar búsquedas.
 
-![Esquema "Pregunta a tu PDF" - Albert Gil López]([Esquema%20%22Pregunta%20a%20tu%20PDF%22%20-%20Albert%20Gil%20L%C3%B3pez.png)
+![Esquema "Pregunta a tu PDF" - Albert Gil López](Esquema%20"Pregunta%20a%20tu%20PDF"%20-%20Albert%20Gil%20López.png)
 
 ## 🚀 Cómo Ejecutar el Proyecto
 
