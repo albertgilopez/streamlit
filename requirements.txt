@@ -1,0 +1,12 @@
+streamlit
+langchain
+openai
+chromadb
+tiktoken
+python-decouple
+together
+pydantic==1.*
+sentence-transformers
+pypdf
+PyPDF2
+pysqlite3-binary
