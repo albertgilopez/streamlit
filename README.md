@@ -1,6 +1,6 @@
 # 📄 Pregunta a tu PDF: Un Asistente de IA para Consultas en Documentos PDF
 
-**Pregunta a tu PDF** es un asistente virtual impulsado por técnicas avanzadas de Procesamiento del Lenguaje Natural (PLN), diseñado para ayudarte a extraer información específica de tus documentos PDF con tan solo hacer una pregunta. Este proyecto integra tecnologías como LangChain, TOgether AI, LLaMa2 y Streamlit para proporcionar una interfaz amigable y eficiente que facilita la interacción con tus archivos PDF.
+**Pregunta a tu PDF** es un asistente virtual impulsado por técnicas avanzadas de Procesamiento del Lenguaje Natural (PLN), diseñado para ayudarte a extraer información específica de tus documentos PDF con tan solo hacer una pregunta. Este proyecto integra tecnologías como LangChain, Together AI, LLaMa2 y Streamlit para proporcionar una interfaz amigable y eficiente que facilita la interacción con tus archivos PDF.
 
 ## 🎯 Características Principales
 
