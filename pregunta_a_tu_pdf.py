@@ -20,7 +20,7 @@ from langchain.vectorstores import Chroma
 from langchain.chains import RetrievalQA
 from langchain.llms.base import LLM
 from langchain.utils import get_from_dict_or_env
-from langchain import PromptTemplate
+from langchain.prompts.PromptTemplate
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.document_loaders import PyPDFLoader
